@@ -10,3 +10,8 @@ For the regression analysis, the R package lavaan will be used based on the foll
 - ATS=b1*SF+c1*SS+c2*SC+c3*SS*SC
 
 Here, SF is Sponsorship Fit, SS is Sponsorship similarity, SC is Sponsor Cohesiveness and ATS is Attitude towards the Sponsorship.
+## Conclusion
+The results of this study illustrate the positive effects that sponsorship similarity and sponsor cohesiveness have on increasing sponsorship fit. Practical implications that stem from this research are valuable to multiple subjects, managers of the corporate sponsor, as well as managers of the charity. 
+A way in which managers could take advantage of the findings of this research is when deciding to undertake a sponsorship agreement with a company that has a low similarity with the charity. In this case, it does not mean that the sponsorship is going to be a complete failure from the beginning. As a matter of fact, the company can achieve a high fit even in this situation, if it decides to invest in communication efforts. Indeed, with a clear communication strategy they can explicate what makes the company and the charity similar, even if those similarity are abstract or not immediately noticed. The consumers will then perceive the sponsor in a different light.
+Moreover, with a clear communication strategy and consistent efforts over time in the same direction, sponsors would also improve their brand image and therefore, their cohesiveness.
+Undeniably, by knowing that similarity and sponsor cohesiveness can be drivers of a sponsorship’s success, managers can evaluate better which company or which charity would form a logical pair and consequently lead to successful partnerships before deciding to sign an agreement together.
