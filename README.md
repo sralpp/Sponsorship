@@ -5,6 +5,6 @@ Today, it is nearly impossible to find a public event or campaign that is not sp
 After collecting the data, we clean it, and we run a regression analysis. Data cleaning will consist in checking for duplicates, straight liners and for bad quality data through the attention check.
 To run the analysis, we also need to create categorical variables for our manipulated variables. For this purpose, we use effect coding. In this way, it avoids preselecting an arbitrary reference category as it happens with dummy coding. Moreover, when there is an interaction between two categorical variables, effect coding helps in estimating both main and interaction effects reasonably. With dummy coding instead, main effects cannot be considered true, as they are the effect of one variable at the level of the other variable.
 For the regression analysis, the R package lavaan will be used based on the following formula:
--SF=a1*SS+a2*SC+a3*SS*SC
--ATS=b1*SF+c1*SS+c2*SC+c3*SS*SC
+SF=a1*SS+a2*SC+a3*SS*SC
+ATS=b1*SF+c1*SS+c2*SC+c3*SS*SC
 Here, SF is Sponsorship Fit, SS is Sponsorship similarity, SC is Sponsor Cohesiveness and ATS is Attitude towards the Sponsorship.
