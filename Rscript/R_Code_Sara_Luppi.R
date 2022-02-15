@@ -9,7 +9,7 @@ library(ggplot2)
 library(dplyr)
 library(emmeans)
 
-data <- read.csv("Data_Sara_Luppi.csv")
+data <- read.csv(file = here::here("data/Data_Sara_Luppi.csv")
 
 #Deleting rows that I do not need
 data <- data[-c(1,2),]
